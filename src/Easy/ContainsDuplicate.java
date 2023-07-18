@@ -3,8 +3,8 @@ package Easy;
 import java.util.HashSet;
 import java.util.Set;
 
-public class ContainsDuplicate {
-    public boolean containsDuplicate(int[] nums) {
+public class containsDuplicate {
+    public boolean Solution(int[] nums) {
         // Create a set to store the numbers
         Set<Integer> set = new HashSet<Integer>();
         boolean temp;
