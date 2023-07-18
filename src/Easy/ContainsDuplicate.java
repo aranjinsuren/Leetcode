@@ -18,4 +18,7 @@ public class ContainsDuplicate {
         // If the loop ends, it means that there are no duplicates
         return false;
     }
+
+    // Runtime - O(n)
+
 }
