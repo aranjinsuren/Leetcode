@@ -3,6 +3,8 @@ package Easy;
 import java.util.HashSet;
 import java.util.Set;
 
+// 217. Contains Duplicate
+// https://leetcode.com/problems/contains-duplicate/
 public class containsDuplicate {
     public boolean Solution(int[] nums) {
         // Create a set to store the numbers

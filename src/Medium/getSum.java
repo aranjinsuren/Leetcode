@@ -1,6 +1,8 @@
 package Medium;
 
-class getSum {
+// 371. Sum of Two Integers
+// https://leetcode.com/problems/sum-of-two-integers/
+public class getSum {
     public int Solution(int a, int b) {
         // a ^ b is the sum without the carry, will continue looping until there is no carry
         while (b != 0) {
