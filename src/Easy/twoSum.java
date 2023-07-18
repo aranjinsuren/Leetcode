@@ -26,4 +26,7 @@ public class twoSum {
         // If the loop ends, it means that there are no solutions
         return new int[]{};
     }
+
+    // Runtime - O(n)
+    
 }
