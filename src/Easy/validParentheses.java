@@ -2,6 +2,8 @@ package Easy;
 
 import java.util.Stack;
 
+// 20. Valid Parentheses
+// https://leetcode.com/problems/valid-parentheses/
 public class validParentheses {
     public boolean Solution(String s) {
         // If the length of the string is odd, it is not valid
